@@ -29,11 +29,3 @@ Foram incluídos dois recursos extras:
 1. Baixe o projeto e extraia o ZIP mantendo `index.html`, `style.css` e a pasta `imagens/` juntos.
 2. Abra `index.html` no navegador ou use a extensão Live Server no VS Code.
 3. As três imagens funcionam mesmo sem internet. O Bootstrap é carregado de um CDN e precisa de internet para funcionar corretamente.
-
-## Como publicar no GitHub Pages
-
-1. Crie um repositório público no GitHub chamado `portfolio`.
-2. Envie `index.html`, `style.css`, `README.md` e a pasta `imagens/` para a raiz do repositório.
-3. Em **Settings > Pages**, em **Build and deployment**, selecione **Deploy from a branch**.
-4. Escolha a branch **main**, a pasta **/(root)** e clique em **Save**.
-5. Após a publicação, substitua o link de exemplo pela URL real do seu site.
